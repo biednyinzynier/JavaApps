@@ -1,2 +1,2 @@
 # JavaApps
-Some java apps 
+Here some basic java apps
