@@ -10,4 +10,7 @@ implement that interface or that extends that abstract class.
 <h4>Usage of Factory Design Pattern</h4>
 o	When a class doesn't know what sub-classes will be required to create.<br>
 o	When a class wants that its sub-classes specify the objects to be created.<br>
-o	When the parent classes choose the creation of objects to its sub-classes.
+o	When the parent classes choose the creation of objects to its sub-classes.<br>
+
+<h5>In this demo</h5>
+It is creating the objects according to user input. And use this objects method.
