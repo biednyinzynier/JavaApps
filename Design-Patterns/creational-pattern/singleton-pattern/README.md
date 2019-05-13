@@ -15,6 +15,13 @@ o	Saves memory because object is not created at each request. Only single instan
 o	Singleton pattern is mostly used in multi-threaded and database applications. 
 It is used in logging, caching, thread pools, configuration settings etc.
 
+<h3>How to create Singleton design pattern?</h3>
+To create the singleton class, we need to have static member of class, private constructor and static factory method.<br>
+
+o	Static member: It gets memory only once because of static, itcontains the instance of the Singleton class.<br>
+o	Private constructor: It will prevent to instantiate the Singleton class from outside the class.<br>
+o	Static factory method: This provides the global point of access to the Singleton object and returns the instance to the caller.
+
 <h4>In this demo:</h4>
 We will only lock on the getInstance() once, when the obj is null. <br>
 This way we only synchronize just what we want.
