@@ -1,4 +1,4 @@
-Static Method:<br>
+<h4>Static Method:</h4>
 • Belongs to the class rather than the object of a class<br>
 • can be invoked without the need for creating an instance of a class<br>
 • can access static data member and can change the value of it<br>
