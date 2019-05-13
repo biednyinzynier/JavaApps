@@ -1,6 +1,5 @@
 <h2>Polymorphism:</h2> 
-Refers to perform a certain action in different ways. Overloading and overriding are a polymorphism style.
-Polymorphism is the ability of an object to take on many forms. The most common use of polymorphism in OOP occurs when a parent class reference is used to refer to a child class object.<br>
+Polymorphism is the ability of an object to take on many forms. Refers to perform a certain action in different ways. The most common use of polymorphism in OOP occurs when a parent class reference is used to refer to a child class object. Overloading and overriding are a polymorphism style.<br>
 <h3>Polymorphism in Java:</h3>
 •	The same method name is used several times.<br>
 •	All Java objects can be considered polymorphic (at the minimum, they are of their own type and instances of the Object class).<br>
