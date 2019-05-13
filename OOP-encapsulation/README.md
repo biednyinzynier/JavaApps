@@ -1,4 +1,5 @@
-Encapsulation: Allows us to protect the data stored in a class from public access.The encapsulated class is like real-life capsule. <br>
+<h2>Encapsulation:</h2> 
+Allows us to protect the data stored in a class from public access. The encapsulated class is like real-life capsule. <br>
 •	Restricts direct access to data members (fields) of a class.<br>
 •	Fields are set to private<br>
 •	Each field has a getter and setter method<br>
