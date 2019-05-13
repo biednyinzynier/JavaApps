@@ -1,7 +1,7 @@
 <h2>Prototype Design Pattern </h2>
 Prototype Pattern says that cloning of an existing object instead of creating new one and can also be customized as per the requirement.
 This pattern should be followed, if the cost of creating a new object is expensive and resource intensive. 
-This pattern aims to minimize the cost of object creating.
+This pattern helps to minimize the cost of object creating.
 
 <h3>Advantages of Prototype Pattern</h3>
 o	It reduces the need of sub-classing.<br>
