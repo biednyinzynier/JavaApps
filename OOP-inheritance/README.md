@@ -1,4 +1,5 @@
-Inheritance: Makes it possible to create a child class and inherit the fields and methods of the parent class.<br>
+<h2>Inheritance:</h2>
+Makes it possible to create a child class and inherit the fields and methods of the parent class.<br>
 •	A class (child class) can extend another class (parent class) by inheriting its features.<br>
 •	Implements the DRY (Don’t Repeat Yourself) programming principle.<br>
 •	Improves code reusability.<br>
