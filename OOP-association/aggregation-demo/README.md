@@ -12,4 +12,4 @@ That means Faculty class is associated with Department class through its Object.
 And Department class has also a reference to Object or Objects (List of Objects) of Student class 
 That mean it is associated with Student class through its Objects.
 It represents a Has-A relationship.<br><br>
-![image](https://user-images.githubusercontent.com/46630197/57575172-77576c80-744e-11e9-80e9-9940b56f0328.png)
+![image](https://user-images.githubusercontent.com/46630197/57613427-8427ad80-757f-11e9-848f-21f211b8f9ff.png)
